@@ -1,6 +1,4 @@
 requests
 websocket-client
-ujson
-tqdm
 pymongo
 pymongo[srv]
